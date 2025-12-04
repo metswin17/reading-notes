@@ -19,7 +19,7 @@ __Access the day__ take in what you've done and see what you can do better.
 But always commend yourself for what you achieved. You are your own cheerleader
 
 __Obstacles__ Always see the road ahead. Obstacles were meant to be climbed over
-work around, dig under or knock out of your way. Igt does not stop you. It only
+work around, dig under or knock out of your way. It does not stop you. It only
 gets your past experience or new outlook to get in gear and push through
 ***Yes you can***
 
