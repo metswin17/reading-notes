@@ -14,7 +14,7 @@ Determination is a powerfull force to help aide with knowledge and natural abili
 
 __Effort__ helps in all aspects of work. The Ant that knocks down the rubber tree plant. 
 Always keep going and stop to refuel mentally as well as physically.
-to go over around under 
+
 __Access the day__ take in what you've done and see what you can do better. 
 But always commend yourself for what you achieved. You are your own cheerleader
 
