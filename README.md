@@ -42,6 +42,9 @@ https://github.com/metswin17/reading-notes/edit/main/README.md
 What are four important features to look for in a text editor?
 
 a) Code completion 
+
 b) syntax highlighting 
-c) variety of # Themes
+
+c) variety of 'Themes' 
+
 d) good selection of extensions 
