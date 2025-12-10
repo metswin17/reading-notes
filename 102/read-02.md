@@ -23,7 +23,7 @@ Change Directories - ie. move to another directory.
   
 
 
-### Important concept ### 
+ **Important concept** 
 
 ***Relative path***
 A file or directory location relative to where we currently are in the file system.
@@ -33,7 +33,7 @@ A file or directory location in relation to the root of the file system.
 In the previous section we learnt about something called Tab Completion. If you use that before encountering the space in the directory name then the terminal will automatically escape any spaces in the name for you.
 
 
-Summary 
+**Summary** 
 What we learnt
 
 file
@@ -41,7 +41,7 @@ obtain information about what type of file a file or directory is.
 ls -a
 List the contents of a directory, including hidden files.
 
-Important concepts
+**Important concepts** 
 
 Everything is a file under Linux
 Even directories.
@@ -50,33 +50,47 @@ Files can have any extension they like or none at all.
 Linux is case sensitive
 Beware of silly typos.
 
-####Answer####
+*Answer*
 What are four important features to look for in a text editor?
+
 a) Code completion
+
 b) syntax highlighting
+
 c) variety of 'Themes' User friendly interface
+
 d) good selection of extensions
 
-What do the following commands do?
-Pwd  Print working Directory what your current or present working directory is in (Folder or path you are currently in) 
+>What do the following commands do?> 
+
+ls Pwd  Print working Directory what your current or present working directory is in (Folder or path you are currently in) 
+
 Ls is a command that lists the contents of folder you are in.
-Cd If you run the command cd without any arguments then it will always take you back to your home directory. But it will change your directory
+
+Cd If you run the command cd without any arguments then it will always take you back to your home directory. But it will change your directory 
+
 Mkdir  in Linux is a command used to create a new directory (folder) like right click
+
 Touch is a command used primarily to create empty files or update the timestamps of existing files.makes a file
 
 
+Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? 
 
+(Arguments are extra instructions given to a command.)
 
-Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 cd projects   The command cd projects is used in the terminal to change your current directory to a folder named projects.
-Breakdown:
+
+**Breakdown**:
+
 cd = change directory  mouse as opposed to command
 
 
 projects = the name of the folder you want to move into
 
 touch new-project/newfile.md  Creates a new empty file named newfile.md inside the new-project directory.
-Breakdown:
+
+**Breakdown**:
+
 touch → A command used in Unix/Linux/macOS to create an empty file or update the timestamp of an existing file.
 
 
@@ -95,7 +109,7 @@ cd .. moves you up one folder from your current location.
 
 
 ls projects/new-project  is a shell (Linux/macOS) command. Here’s what is happening step-by-step:
-✅ Breakdown
+**Breakdown**:
 ls — lists the contents of a directory.
 
 
