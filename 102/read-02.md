@@ -9,7 +9,7 @@ we can have several command lines open and doing different tasks in each at the 
 There are various shells available but the most common one is called BASH which stands for Bourne Again SHell.
  you may use a command called echo to display a system variable stating your current shell. echo is a command which is used to display messages. Helps with list of prior commands up to 1000
 
-### Basic Navigation ###  
+**Basic Navigation**  
 
 The first command we are going to learn is pwd which stands for Print Working Directory. 
 
