@@ -48,3 +48,27 @@ b) syntax highlighting
 c) variety of 'Themes' 
 
 d) good selection of extensions 
+
+
+Answer
+What is Version Control?
+
+Version control is system that monitors, creates,  alters and safeguards files.  
+
+What is cloning in Git?
+
+Cloning copies all files from Hub to local drive
+
+What is the command to track and stage files?
+
+Git add ~name~ or . for all
+
+What is the command to take a snapshot of your changed files?
+
+Git commit -m”description of changes and why”
+
+What is the command to send your changed files to Github?
+
+git push origin main
+
+
