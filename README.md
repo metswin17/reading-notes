@@ -72,3 +72,22 @@ What is the command to send your changed files to Github?
 git push origin main
 
 
+What is HTML and why do we use it?
+HTML is the markup language used to build and structure content on the web
+
+It tells web browsers how to organize and display elements like headings, paragraphs, lists, and tables.
+
+What are the 3 main parts of an HTML element?
+Opening tag
+Content
+Closing tag
+
+What is it called when you give an element extra information?         
+an attribute
+
+What is a semantic element?
+
+They explicitly state what kind of content is inside (e.g., <nav> for navigation, <main> for primary content).
+
+
+
