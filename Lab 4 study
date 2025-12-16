@@ -1,0 +1,86 @@
+Lab 4 study
+
+
+
+List of new semantic elements
+The semantic elements added in HTML5 are:
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+What is wireframing
+
+Wireframing lets UX designers define and plan the information hierarchy of their design for a website, app, or product. 
+
+It’s a low fidelity sketch of a Digital interface
+
+The outline or bare bones of the key element of your design
+
+When designing for the screen you need to know where all the information is going to go in plain black and white diagrams before building anything with code—whether that’s a developer coding it, or you the designer. 
+
+Wireframing lets you plan the layout and interaction of your interface. 
+
+Here are a number of ways different designers can structure the process from design to implementation:
+Wireframe > Interactive Prototype > Visual > Design
+Sketch > Code
+Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
+Sketch > Wireframe > Visual > Code
+free wireframe tools
+UXPin: UXPin has a wide range of functionalities, but one of the best ones is how it facilitates building responsive, clickable prototypes directly in your browser.
+InVision: InVision allows you to get feedback straight from your team and users through clickable mock-ups of your site design. It’s completely free too!
+Wireframe.cc: Wireframe.cc provides you with the technology to create wireframes really quickly within your browser, the online version of pen and paper.
+1. Do your research
+2. Prepare your research for quick reference
+3. Make sure you have your user flow mapped out
+4. Draft, don’t draw. Sketch, don’t illustrate
+5. Add some detail and get testing
+Usability conventions, such as putting the navigation at the top next to your logo, having a search box on the top right, and so on
+Simple, instructional wording for i.e. calls-to-action
+Trust-building elements: What do you need to build trust in your customers and where would be the best place to put these elements?
+Tooltips to indicate any functionality that could be included in a prototype transition
+
+
+
+
+6. Start turning your wireframes into prototypes
+
+Three key principles
+The following points should be at the forefront of your mind when building your wireframe:
+1. Clarity
+Your wireframe needs to answer the questions of what that site page is, what the user can do there, and if it satisfies their needs. Your wireframe is an aid for you to visualize the layout of your site page and ensure that the user’s most important questions are answered and goals are achievable without being distracted by more aesthetic considerations.
+2. Confidence
+Ease of navigation through your site and clear calls-to-action increase user confidence in your brand. If your site page is unpredictable, or has buttons or boxes in unexpected places user confidence diminishes. A lot of this information can already be organized at the wireframing stage. Using familiar navigational processes and placing buttons in commonly-used and intuitive positions, user confidence will soar–and that’s before you’ve even gotten around to thinking about colors and styles.
+3. Simplicity is key
+Too much information, copy, or links, can be distracting to the user and will have a detrimental affect on your users’ ability to achieve their goals. You want your users to be able to find their way through your site with as little extra ‘fluff’ as possible, to the elements that map to their most significant goals in a given context.
+Your wireframe should be a visual guide to the framework of your site and how it will be navigated. Attractiveness at this stage is not a consideration. Once you’ve decided who your product or service is for, you can begin laying out the information they are looking for in an intuitive and natural way that is not only familiar to them as users of this kind of service, but that also guides them towards the conversion point or otherwise helps them to achieve their goals in the interaction. By presenting your information in this way, you are aligning both the business goals of your site with the needs of the custom
+
+What is HTML and why do we use it?
+HTML is the markup language used to build and structure content on the web
+
+It tells web browsers how to organize and display elements like headings, paragraphs, lists, and tables.
+
+What are the 3 main parts of an HTML element?
+Opening tag
+Content
+Closing tag
+
+What is it called when you give an element extra information?         
+an attribute
+
+What is a semantic element?
+
+They explicitly state what kind of content is inside (e.g., <nav> for navigation, <main> for primary content).
+Key Points
+<ul> and <ol> The <li> (list item) element must always be contained within a parent list element, such as <ul> (unordered list) or <ol> (ordered list).
+Styling The appearance of these elements (e.g., changing bullet types, adjusting spacing) is typically controlled using CSS (Cascading Style Sheets).
+Nesting Rules An unordered list (<ul>) cannot be placed directly inside a paragraph (<p>) element; they are both "grouping content" elements and have specific rules about their parent and child elements. 
+
