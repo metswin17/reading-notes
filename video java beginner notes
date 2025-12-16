@@ -1,0 +1,27 @@
+vdeo java beginner notes Bro code 
+
+Video Java beginners ~ Bro Code You Tube 
+
+Command to type in, later you will cover this but must input as follows to begin
+
+Public static void main ( String [ ] argos) { }
+
+To run program hit > on top right or hit shift f10
+
+If we have written the main method successfully it should say
+
+“Process finished with exit code 0”
+Means everything is running fine
+
+To help output some text in the console window 
+Type - System . out . print (“I like pizza“);
+> or shift F10  you should see I like pizza 
+
+Use println for separate lines , 
+Or use a \n at the end of the quote line \n” for separate lines (next line)
+> or shift F10
+
+To write a comment use // or multi line comment /*this is a multi line comment*/
+Comments will not be seen. You can use file settings color scheme and console font to change size of font and change color to highlight areas or fade areas out like comments 
+
+
