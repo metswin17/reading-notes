@@ -93,12 +93,12 @@ They explicitly state what kind of content is inside (e.g., <nav> for navigation
 
 |102                             |201                             |                                 |
 |--------------------------------|--------------------------------|---------------------------------|
-|- [Class 1 Reading](102/read-01)|- [Class 1 Reading](201/read_01)|- [Class 9 Reading](201/read_09) |
-|- [Class 2 Reading](102/read_02)|- [Class 2 Reading](201/read_02)|- [Class 10 Reading](201/read_10)|
-|- [Class 3 Reading](102/read_03)|- [Class 3 Reading](201/read_03)|- [Class 11 Reading](201/read_11)|
-|- [Class 4 Reading](102/read_04)|- [Class 4 Reading](201/read_04)|- [Class 12 Reading](201/read_12)|
-|- [Class 5 Reading](102/read_05)|- [Class 5 Reading](201/read_05)|- [Class 13 Reading](201/read_13)|
-|- [Class 6 Reading](102/read_06)|- [Class 6 Reading](201/read_06)|- [Class 14 Reading](201/read_14)|
-|- [Class 7 Reading](102/read-07)|- [Class 7 Reading](201/read_07)|- [Class 15 Reading](201/read_15)|
-|- [Class 8 Reading](102/read-08)|- [Class 8 Reading](201/read_08)|- |
+|- [Class 1 Reading](102/read-01)|- [Class 1 Reading](201/read-01)|- [Class 9 Reading](201/read-09) |
+|- [Class 2 Reading](102/read-02)|- [Class 2 Reading](201/read-02)|- [Class 10 Reading](201/rea-10)|
+|- [Class 3 Reading](102/read-03)|- [Class 3 Reading](201/read-03)|- [Class 11 Reading](201/rea-11)|
+|- [Class 4 Reading](102/read-04)|- [Class 4 Reading](201/read-04)|- [Class 12 Reading](201/rea-12)|
+|- [Class 5 Reading](102/read-05)|- [Class 5 Reading](201/read-05)|- [Class 13 Reading](201/rea-13)|
+|- [Class 6 Reading](102/read-06)|- [Class 6 Reading](201/read-06)|- [Class 14 Reading](201/rea-14)|
+|- [Class 7 Reading](102/read-07)|- [Class 7 Reading](201/read-07)|- [Class 15 Reading](201/read-15)|
+|- [Class 8 Reading](102/read-08)|- [Class 8 Reading](201/read-08)|- |
 
