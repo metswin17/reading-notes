@@ -1,0 +1,52 @@
+These areas we are covering , is breaking down reasons to use certain elements to achieve the best results and not repeat excess amount duplicate code writing
+
+
+
+When should you use an unordered list in your HTML document?
+When the sequence is not important.  
+How do you change the bullet style of unordered list items?
+list-style-type: square;
+When should you use an ordered list vs an unorder list in your HTML document?
+When the process steps matter use ordered list. Such as instructions in a recipe otherwise use unordered if the steps or list does not matter 
+Describe two ways you can change the numbers on list items provided by an ordered list?
+You can change the start value with <ol start="5">
+Or roman numerals with <ol type="I">
+
+Learn CSS
+The Box Model
+Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
+In the Box Model Margin is the space between spaces , it’s all of the box around all of the content
+Padding helps margin by creating the viewable content that stays within it’s created space without coming out and staying neatly within the edges
+
+List and describe the four parts of an HTML elements box as referred to by the box model.
+1 Content = the space where text images etc .. are 
+2 Padding - the space between all the contents 
+3 Border - the outside edge of the content
+4 Margin The space between all contents  
+Learn JS
+Arrays. Operators and Expressions. Conditionals. Loops.
+What data types can you store inside of an Array?
+Numbers , strings , booleans , objects
+Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+Yes it is and you access it by index sequence order 
+const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
+3 List five shorthand operators for assignment in javascript and describe what they do.
+Addition , Subtraction, Division, Multiplication , Modulas
+4 Read the code below and evaluate the last expression and explain what the result would be and why.
+let a = 10;
+ let b = 'dog';
+ let c = false;
+
+ // evaluate this
+ (a + c) + b;
+In JavaScript, when you use + with a number and a boolean, the boolean gets converted to a number.
+false becomes 0
+
+
+true would become 1
+“10dog”
+5 Describe a real world example of when a conditional statement should be used in a JavaScript program.
+Checking if a runner achieved a speed needed to qualify for a tournament 
+
+6 Give an example of when a Loop is useful in JavaScript.
+Running a numbers guessing game 
