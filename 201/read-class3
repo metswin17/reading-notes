@@ -1,3 +1,45 @@
+HTML (HyperText Markup Language) defines the meaning and structure of web content.Generally a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript). HTML is the Skeleton building block of the web
+
+"Hypertext" refers to links that connect web pages to one another
+
+HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <search>, <output>, <progress>, <video>, <ul>, <ol>, <li> and many others.
+
+
+An HTML element is set off from other text in a document by "tags", which consist of the element name surrounded by < and >. The name of an element inside a tag is case-insensitive
+
+The anatomy of an HTML element — element, opening tag, content, closing tag, attributes.
+Understanding that HTML needs to be correctly nested.
+An HTML form on a web page is nothing more than a convenient user-friendly way to configure an HTTP request to send data to a server. This enables the user to provide information to be delivered in the HTTP request.
+
+At its most basic, the web uses a client/server architecture 
+ client (usually a web browser) sends a request to a server
+using the http protocol. The server answers the request using the same protocol.
+
+HTML form data can be transmitted via a number of different methods, the most common being the 
+1 Get method 
+Ex "Hey server, I want to get this resource."
+2 Post method
+Ex "Hey server, take a look at this data and send me back an appropriate result."
+
+Web Forms allow users to enter data, which is generally sent to a web server for processing and storage, or used on the client-side to immediately update the interface in some way 
+Forms are one of the most basic primary interactions users will have with your websites (and mobile apps) (Smashing Magazine)
+
+The head of an HTML document is the part that is not displayed in the web browser when the page is loaded.
+
+It may not surprise you that HTML has a convenient set of elements that allows us to define different types of list. On the web, we have three types of lists: unordered, ordered, and description lists. 
+In addition to defining individual parts of your page (such as "a paragraph" or "an image"), HTML also boasts a number of block level elements used to define areas of your website (such as "the header", "the navigation menu", "the main content column")
+
+
+Hyperlinks when clicked or otherwise activated, cause the browser to navigate to other documents or resources, sometimes specific parts of documents. Hyperlinks are one of the most exciting innovations the Web has to offer
+
+Link targets are URLs. A URL, or Uniform Resource Locator, is a string of text that defines where something is located on the Web
+
+
+
+
+
+
+
 These areas we are covering , is breaking down reasons to use certain elements to achieve the best results and not repeat excess amount duplicate code writing
 
 
