@@ -34,8 +34,11 @@ Make sure links are keyboard accessible
 Use color contrast but dont relay on color alone use bold or italic
 Add attributes when needed 
 (No href means it won’t behave like a real link.)
+
+
 CSS Layout
 CSS Layout: Normal Flow CSS Layout: Positioning
+
 What is meant by “normal flow”?
 normal flow is the default way a browser lays out block and inline content.
 Normal flow is the default way the browser places elements on a page when you don’t change their positioning with If you don’t use:
@@ -192,4 +195,75 @@ Reflection for you: This reduces frustration from bugs and helps you learn to wr
 
 Extra reflection thought:
 Pair programming also encourages communication and teamwork, which is crucial in real-world coding projects. You’ll get comfortable explaining your thinking, which reinforces your own understanding.
+
+<a> tags are clickable
+
+Clearfix will fix any problems with float , overflow auto 
+The float problem
+When you use:
+float: left;
+The floated element is taken out of normal flow.
+That means the parent container may “collapse” — it won’t expand to wrap around the floated child.
+That’s the problem clearfix fixes.
+
+What Clearfix does
+Clearfix forces the parent container to properly contain its floated children.
+Example clearfix method:
+.clearfix::after {
+ content: "";
+ display: block;
+ clear: both;
+}
+When you add class="clearfix" to the parent, it stretches correctly around floated elements.
+
+What about overflow: auto;?
+This is a shortcut method.
+.container {
+ overflow: auto;
+}
+Gap put a space between the margins 
+
+
+Flex box allocates equal space to each element in the row inside the parent element 
+Flexes with number of items in the space
+
+Media flex 600 pixels or smaller, mobile device. CHANGES HOW FLEX ITEMS ARE LAYED OUT. SHIFTS TO COLlum to fit screen
+
+Display is the number one property for css layout
+
+Inside display : block 
+Block full width stack top to bottom  did p section a 
+Block nothing can park next to it, it takes up the full space 
+
+Css 
+#box-1, 
+#box-2,
+#box-3,{
+Background padding margin 
+}
+
+# fancy-box { 
+Width padding border background
+}
+
+#fixed-box  {
+Position bottom right background padding width height 
+
+Float useful when you want it in a certain location 
+Where on the page right and margin 10pix
+
+
+Display and position most useful in the layout. Do layout somewhere in the beginning when starting. Especially at wireframe phase
+
+Block and inline elements and ID tags name of divs 
+
+global variables (declared outside of any function) are available anywhere
+1. local variables (declared inside a function) are only available inside the function.
+
+
+
+
+Pair programming driver puts in all the codes, the navigator is giving instructions to the driver
+Navigator does not type think observe and apply 
+
 read-04.md
