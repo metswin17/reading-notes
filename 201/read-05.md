@@ -1,3 +1,12 @@
+The pages presentation. The use of images on a page is a good part of The pages presentation Choosing the correct image and format helps the user understand what the website is about
+Good css enhancements help make the pages comfortable for viewing and scenic with features that make the visit dynamic 
+
+These areas help improve our building of websites and help us move closer to what we are learning in this course and where we want to be
+
+
+
+
+
 1. What is a real world use case for the alt attribute being used in a website?
 Gives text information for the image. Helps if image can’t load 
 
