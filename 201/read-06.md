@@ -1,3 +1,10 @@
+Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
+
+Object and arrays are important ways to store data.
+Dom is the bridge from HTML to JS setting a tree for JS to use 
+
+
+
 How would you describe an object to a non-technical friend you grew up with?
 An object is like a toolbox with different draws and mixed tools 
 Thing with details about it , how old tricks it can do 
