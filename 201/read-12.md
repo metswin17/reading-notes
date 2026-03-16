@@ -59,3 +59,5 @@ An In-Depth Introduction To Ember.js
 Building A Simple Cross-Browser Offline To-Do List
 Research like this shows that we need to look at HTML5’s features and add-ons from a security perspective very soon to make sure that people can’t record user actions and information without the user’s knowledge. An opt-in for local storage, much like you have to opt in to share your geographic location, might be in order; but from a UX perspective this is considered clunky and intrusive. Got any good ideas?
 
+## Things I want to know more about
+how to shortcut data input key functions 
