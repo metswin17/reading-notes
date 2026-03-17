@@ -128,5 +128,6 @@ Community
 Chart.js is actively developed and maintained by the community. With minor releases on an approximately bi-monthly basis and major releases with breaking changes every couple of years, Chart.js keeps the balance between adding new features and making it a hassle to keep up with them.
 
 
+## Things I want to know more about
 
-
+process of adding Chart.js to file 
