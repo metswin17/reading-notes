@@ -148,4 +148,5 @@ Figma +6
 
 Static website into a user experience they want to come back to
 
-
+## Things I want to know more about
+managing video p[lay in presentations involving choice selections ]
